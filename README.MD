@@ -11,7 +11,7 @@ You can download and try it from [here](https://drive.google.com/file/d/1ELWNvLp
 
 Drop a star if you like it 😜
 
-# Screenshot
+# Screenshots
 
 <p align="center">
     <img src="/screenshot/img_1.png" width="30%" height="30%" alt="screenshot">
