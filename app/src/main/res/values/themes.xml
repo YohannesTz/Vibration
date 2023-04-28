@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.Vibration" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/pink</item>
+    </style>
+
+    <style name="Theme.AppSplash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/pink</item>
+        <item name="windowSplashScreenAnimatedIcon">@mipmap/ic_launcher_round</item>
+        <item name="windowSplashScreenAnimationDuration">500</item>
+        <item name="postSplashScreenTheme">@style/Theme.Vibration</item>
+
+
+        <item name="android:statusBarColor">@color/pink</item>
+        <item name="android:navigationBarColor">@color/pink</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
